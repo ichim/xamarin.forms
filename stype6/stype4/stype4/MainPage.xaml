@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="stype4.MainPage">
+    <ContentPage.Resources>
+        <Style x:Key="dynamic_style_error" TargetType="Entry"   >
+            <Setter Property="BackgroundColor" Value="Red"></Setter>
+            <Setter Property="FontAttributes" Value="Bold,Italic" ></Setter>
+        </Style>
+        <Style x:Key="dynamic_style_ok" TargetType="Entry">
+            <Setter Property="BackgroundColor" Value="{StaticResource backgroundcolor}"></Setter>
+            <Setter Property="FontAttributes" Value="None"></Setter>
+        </Style>
+    </ContentPage.Resources>
+    <StackLayout VerticalOptions="Center" Margin="10">
+        <StackLayout Orientation="Vertical">
+            <Entry x:Name="username" Placeholder="Your username" Style="{DynamicResource dynamic_background }"  ></Entry>
+            <Entry Placeholder="Your password" ></Entry>
+            <Entry Placeholder="Your email" ></Entry>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <CheckBox></CheckBox>
+            <Label Text="from another device"></Label>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Button Text="Give-Up" StyleClass="genericbutton, giveup"></Button>
+            <Button Text="Sign-Up" StyleClass="genericbutton, signup" Clicked="Button_Clicked"></Button>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
