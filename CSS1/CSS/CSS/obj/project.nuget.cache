@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d5ZnQvAGuJnW2752S0SqKSHOfaSw0f2BhCF4IsjkJZLa+Atb/y0W+EL5r3zSK3DJim09RL9Plux6KMjsaKx36w==",
+  "dgSpecHash": "H5nhdnOoZRhovU22KilQEI0vC1IGSQ4ySephrDYnlTvHf1RAtkhSU0SZnVE9aq1by587WfjNExmAbEkeh9ZnTw==",
   "success": true,
-  "projectFilePath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS\\CSS.csproj",
+  "projectFilePath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS\\CSS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lichi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\lichi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS.iOS\\CSS.iOS.csproj": {}
+    "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS.iOS\\CSS.iOS.csproj": {}
   },
   "projects": {
-    "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS.iOS\\CSS.iOS.csproj": {
+    "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS.iOS\\CSS.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS.iOS\\CSS.iOS.csproj",
+        "projectUniqueName": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS.iOS\\CSS.iOS.csproj",
         "projectName": "CSS.iOS",
-        "projectPath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS.iOS\\CSS.iOS.csproj",
+        "projectPath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS.iOS\\CSS.iOS.csproj",
         "packagesPath": "C:\\Users\\lichi\\.nuget\\packages\\",
-        "outputPath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS.iOS\\obj\\",
+        "outputPath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -33,8 +33,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS\\CSS.csproj": {
-                "projectPath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS\\CSS.csproj"
+              "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS\\CSS.csproj": {
+                "projectPath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS\\CSS.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS\\CSS.csproj": {
+    "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS\\CSS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS\\CSS.csproj",
+        "projectUniqueName": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS\\CSS.csproj",
         "projectName": "CSS",
-        "projectPath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS\\CSS.csproj",
+        "projectPath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS\\CSS.csproj",
         "packagesPath": "C:\\Users\\lichi\\.nuget\\packages\\",
-        "outputPath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS\\obj\\",
+        "outputPath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"

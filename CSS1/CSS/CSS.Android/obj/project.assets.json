@@ -1975,11 +1975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS.Android\\CSS.Android.csproj",
+      "projectUniqueName": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS.Android\\CSS.Android.csproj",
       "projectName": "CSS.Android",
-      "projectPath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS.Android\\CSS.Android.csproj",
+      "projectPath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS.Android\\CSS.Android.csproj",
       "packagesPath": "C:\\Users\\lichi\\.nuget\\packages\\",
-      "outputPath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS.Android\\obj\\",
+      "outputPath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2001,8 +2001,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS\\CSS.csproj": {
-              "projectPath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\youtube_code\\Styles\\CSS\\CSS\\CSS\\CSS.csproj"
+            "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS\\CSS.csproj": {
+              "projectPath": "D:\\~~INSTRUIRE\\C#\\XAMARIN\\XAMARIN.Forms\\repo\\xamarin.forms\\CSS1\\CSS\\CSS\\CSS.csproj"
             }
           }
         }
