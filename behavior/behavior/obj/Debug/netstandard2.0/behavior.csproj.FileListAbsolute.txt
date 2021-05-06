@@ -1,0 +1,14 @@
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Behaviors\behavior\behavior\behavior\bin\Debug\netstandard2.0\behavior.deps.json
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Behaviors\behavior\behavior\behavior\bin\Debug\netstandard2.0\behavior.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Behaviors\behavior\behavior\behavior\bin\Debug\netstandard2.0\ref\behavior.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Behaviors\behavior\behavior\behavior\bin\Debug\netstandard2.0\behavior.pdb
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Behaviors\behavior\behavior\behavior\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Behaviors\behavior\behavior\behavior\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Behaviors\behavior\behavior\behavior\obj\Debug\netstandard2.0\behavior.AssemblyInfoInputs.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Behaviors\behavior\behavior\behavior\obj\Debug\netstandard2.0\behavior.AssemblyInfo.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Behaviors\behavior\behavior\behavior\obj\Debug\netstandard2.0\behavior.csproj.CoreCompileInputs.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Behaviors\behavior\behavior\behavior\obj\Debug\netstandard2.0\XamlC.stamp
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Behaviors\behavior\behavior\behavior\obj\Debug\netstandard2.0\behavior.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Behaviors\behavior\behavior\behavior\obj\Debug\netstandard2.0\ref\behavior.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Behaviors\behavior\behavior\behavior\obj\Debug\netstandard2.0\behavior.pdb
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Behaviors\behavior\behavior\behavior\obj\Debug\netstandard2.0\behavior.csprojAssemblyReference.cache
