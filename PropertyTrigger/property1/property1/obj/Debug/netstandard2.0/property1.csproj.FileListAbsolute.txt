@@ -1,0 +1,14 @@
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\property1\property1\property1\bin\Debug\netstandard2.0\property1.deps.json
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\property1\property1\property1\bin\Debug\netstandard2.0\property1.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\property1\property1\property1\bin\Debug\netstandard2.0\ref\property1.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\property1\property1\property1\bin\Debug\netstandard2.0\property1.pdb
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\property1\property1\property1\obj\Debug\netstandard2.0\property1.csprojAssemblyReference.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\property1\property1\property1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\property1\property1\property1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\property1\property1\property1\obj\Debug\netstandard2.0\property1.AssemblyInfoInputs.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\property1\property1\property1\obj\Debug\netstandard2.0\property1.AssemblyInfo.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\property1\property1\property1\obj\Debug\netstandard2.0\property1.csproj.CoreCompileInputs.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\property1\property1\property1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\property1\property1\property1\obj\Debug\netstandard2.0\property1.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\property1\property1\property1\obj\Debug\netstandard2.0\ref\property1.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\property1\property1\property1\obj\Debug\netstandard2.0\property1.pdb

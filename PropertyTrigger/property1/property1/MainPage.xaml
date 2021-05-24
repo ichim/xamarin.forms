@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="property1.MainPage">
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Entry WidthRequest="300" Text="Welcome to Xamarin.Forms!">
+            <Entry.Triggers>
+                <Trigger TargetType="Entry" Property="IsFocused" Value="true">
+                    <Setter Property="TextColor" Value="Indigo"></Setter>
+                    <Setter Property="FontAttributes" Value="Bold,Italic"></Setter>
+                </Trigger>
+            </Entry.Triggers>
+        </Entry>
+    </StackLayout>
+</ContentPage>
