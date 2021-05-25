@@ -1,0 +1,14 @@
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\DataTrigger\DataTrigger\DataTrigger\bin\Debug\netstandard2.0\DataTrigger.deps.json
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\DataTrigger\DataTrigger\DataTrigger\bin\Debug\netstandard2.0\DataTrigger.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\DataTrigger\DataTrigger\DataTrigger\bin\Debug\netstandard2.0\ref\DataTrigger.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\DataTrigger\DataTrigger\DataTrigger\bin\Debug\netstandard2.0\DataTrigger.pdb
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\DataTrigger\DataTrigger\DataTrigger\obj\Debug\netstandard2.0\DataTrigger.csprojAssemblyReference.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\DataTrigger\DataTrigger\DataTrigger\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\DataTrigger\DataTrigger\DataTrigger\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\DataTrigger\DataTrigger\DataTrigger\obj\Debug\netstandard2.0\DataTrigger.AssemblyInfoInputs.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\DataTrigger\DataTrigger\DataTrigger\obj\Debug\netstandard2.0\DataTrigger.AssemblyInfo.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\DataTrigger\DataTrigger\DataTrigger\obj\Debug\netstandard2.0\DataTrigger.csproj.CoreCompileInputs.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\DataTrigger\DataTrigger\DataTrigger\obj\Debug\netstandard2.0\XamlC.stamp
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\DataTrigger\DataTrigger\DataTrigger\obj\Debug\netstandard2.0\DataTrigger.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\DataTrigger\DataTrigger\DataTrigger\obj\Debug\netstandard2.0\ref\DataTrigger.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\DataTrigger\DataTrigger\DataTrigger\obj\Debug\netstandard2.0\DataTrigger.pdb

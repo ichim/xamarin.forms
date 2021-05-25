@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DataTrigger.MainPage">
+
+    <RelativeLayout>
+        <RelativeLayout x:Name="box"
+                        Rotation="45"
+                        BackgroundColor="Yellow"
+                        RelativeLayout.XConstraint="200"
+                        RelativeLayout.YConstraint="150"
+                        HeightRequest="100"
+                        WidthRequest="100">
+            <Button x:Name="button" Text="Rotate"></Button>
+        </RelativeLayout>
+        <RelativeLayout 
+                        BackgroundColor="red"
+                        RelativeLayout.XConstraint="100"
+                        RelativeLayout.YConstraint="50"
+                        HeightRequest="100"
+                        WidthRequest="100">
+            <RelativeLayout.Triggers>
+                <DataTrigger TargetType="RelativeLayout" Binding="{Binding Source={x:Reference button},Path=IsPressed}" Value="true">
+                    <Setter Property="Rotation" Value="{Binding Source={x:Reference box},Path=Rotation}"></Setter>
+                </DataTrigger>
+            </RelativeLayout.Triggers>
+        </RelativeLayout>
+        <RelativeLayout 
+                        BackgroundColor="Green"
+                        RelativeLayout.XConstraint="300"
+                        RelativeLayout.YConstraint="50"
+                        HeightRequest="100"
+                        WidthRequest="100">
+            <RelativeLayout.Triggers>
+                <DataTrigger TargetType="RelativeLayout" Binding="{Binding Source={x:Reference button},Path=IsPressed}" Value="true">
+                    <Setter Property="Rotation" Value="{Binding Source={x:Reference box},Path=Rotation}"></Setter>
+                </DataTrigger>
+            </RelativeLayout.Triggers>
+        </RelativeLayout>
+        <RelativeLayout 
+                        BackgroundColor="Blue"
+                        RelativeLayout.XConstraint="300"
+                        RelativeLayout.YConstraint="250"
+                        HeightRequest="100"
+                        WidthRequest="100">
+            <RelativeLayout.Triggers>
+                <DataTrigger TargetType="RelativeLayout" Binding="{Binding Source={x:Reference button},Path=IsPressed}" Value="true">
+                    <Setter Property="Rotation" Value="{Binding Source={x:Reference box},Path=Rotation}"></Setter>
+                </DataTrigger>
+            </RelativeLayout.Triggers>
+        </RelativeLayout>
+        <RelativeLayout 
+                        BackgroundColor="MediumAquamarine"
+                        RelativeLayout.XConstraint="100"
+                        RelativeLayout.YConstraint="250"
+                        HeightRequest="100"
+                        WidthRequest="100">
+            <RelativeLayout.Triggers>
+                <DataTrigger TargetType="RelativeLayout" Binding="{Binding Source={x:Reference button},Path=IsPressed}" Value="true">
+                    <Setter Property="Rotation" Value="{Binding Source={x:Reference box},Path=Rotation}"></Setter>
+                </DataTrigger>
+            </RelativeLayout.Triggers>
+        </RelativeLayout>
+
+    </RelativeLayout>
+</ContentPage>
