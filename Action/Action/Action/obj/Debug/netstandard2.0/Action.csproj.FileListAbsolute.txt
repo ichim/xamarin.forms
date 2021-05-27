@@ -1,0 +1,14 @@
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\Action\Action\Action\bin\Debug\netstandard2.0\Action.deps.json
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\Action\Action\Action\bin\Debug\netstandard2.0\Action.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\Action\Action\Action\bin\Debug\netstandard2.0\ref\Action.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\Action\Action\Action\bin\Debug\netstandard2.0\Action.pdb
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\Action\Action\Action\obj\Debug\netstandard2.0\Action.csprojAssemblyReference.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\Action\Action\Action\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\Action\Action\Action\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\Action\Action\Action\obj\Debug\netstandard2.0\Action.AssemblyInfoInputs.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\Action\Action\Action\obj\Debug\netstandard2.0\Action.AssemblyInfo.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\Action\Action\Action\obj\Debug\netstandard2.0\Action.csproj.CoreCompileInputs.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\Action\Action\Action\obj\Debug\netstandard2.0\XamlC.stamp
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\Action\Action\Action\obj\Debug\netstandard2.0\Action.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\Action\Action\Action\obj\Debug\netstandard2.0\ref\Action.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Triggers\Action\Action\Action\obj\Debug\netstandard2.0\Action.pdb

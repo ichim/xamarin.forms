@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Action.MainPage"
+             xmlns:local="clr-namespace:Action.custom"
+             >
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Entry Text="Welcome to Xamarin.Forms!" FontSize="20">
+            <Entry.Triggers>
+                <Trigger TargetType="Entry" Property="IsFocused" Value="true">
+                    <Trigger.EnterActions>
+                        <local:action activate="100"></local:action>
+                    </Trigger.EnterActions>
+                    <Trigger.ExitActions>
+                        <local:action activate="101"></local:action>
+                    </Trigger.ExitActions>
+                    
+                </Trigger>
+            </Entry.Triggers>
+        </Entry>
+    </StackLayout>
+</ContentPage>
