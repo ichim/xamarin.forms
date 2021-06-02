@@ -1,0 +1,14 @@
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Aimation\sync_async\sync_async\sync_async\bin\Debug\netstandard2.0\sync_async.deps.json
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Aimation\sync_async\sync_async\sync_async\bin\Debug\netstandard2.0\sync_async.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Aimation\sync_async\sync_async\sync_async\bin\Debug\netstandard2.0\ref\sync_async.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Aimation\sync_async\sync_async\sync_async\bin\Debug\netstandard2.0\sync_async.pdb
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Aimation\sync_async\sync_async\sync_async\obj\Debug\netstandard2.0\sync_async.csproj.AssemblyReference.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Aimation\sync_async\sync_async\sync_async\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Aimation\sync_async\sync_async\sync_async\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Aimation\sync_async\sync_async\sync_async\obj\Debug\netstandard2.0\sync_async.AssemblyInfoInputs.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Aimation\sync_async\sync_async\sync_async\obj\Debug\netstandard2.0\sync_async.AssemblyInfo.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Aimation\sync_async\sync_async\sync_async\obj\Debug\netstandard2.0\sync_async.csproj.CoreCompileInputs.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Aimation\sync_async\sync_async\sync_async\obj\Debug\netstandard2.0\XamlC.stamp
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Aimation\sync_async\sync_async\sync_async\obj\Debug\netstandard2.0\sync_async.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Aimation\sync_async\sync_async\sync_async\obj\Debug\netstandard2.0\ref\sync_async.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Aimation\sync_async\sync_async\sync_async\obj\Debug\netstandard2.0\sync_async.pdb
