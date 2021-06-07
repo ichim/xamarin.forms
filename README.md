@@ -4,5 +4,5 @@ You can find step by step video for all code examples at:
 https://www.youtube.com/channel/UCddUhQsVPBfRKrGF1jB1kCA
 
 
-Xamarin, synchronous & asynchronous
+Xamarin, synchronous & asynchronous:
 https://youtu.be/nZerEXTE4-Q
