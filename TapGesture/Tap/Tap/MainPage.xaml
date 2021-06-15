@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tap.MainPage">
+    <StackLayout BackgroundColor="DarkGray">
+        <Image 
+            x:Name="img" 
+            Source="basketball.png" 
+            WidthRequest="300" 
+            HeightRequest="300"></Image>
+        <Label HorizontalOptions="Center" x:Name="info" FontSize="Large"></Label>
+        <Grid x:Name="grid" BackgroundColor="DarkGray">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Image Source="basketball.png" Grid.Row="0" Grid.Column="0"></Image>
+            <Image Source="canadian.png" Grid.Row="0" Grid.Column="1"></Image>
+            <Image Source="fifa.png" Grid.Row="0" Grid.Column="2"></Image>
+            <Image Source="football.png" Grid.Row="0" Grid.Column="3"></Image>
+        </Grid>
+    </StackLayout>
+</ContentPage>

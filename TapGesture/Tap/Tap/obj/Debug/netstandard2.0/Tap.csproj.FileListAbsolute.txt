@@ -1,0 +1,14 @@
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\Tap\Tap\Tap\bin\Debug\netstandard2.0\Tap.deps.json
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\Tap\Tap\Tap\bin\Debug\netstandard2.0\Tap.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\Tap\Tap\Tap\bin\Debug\netstandard2.0\ref\Tap.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\Tap\Tap\Tap\bin\Debug\netstandard2.0\Tap.pdb
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\Tap\Tap\Tap\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\Tap\Tap\Tap\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\Tap\Tap\Tap\obj\Debug\netstandard2.0\Tap.AssemblyInfoInputs.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\Tap\Tap\Tap\obj\Debug\netstandard2.0\Tap.AssemblyInfo.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\Tap\Tap\Tap\obj\Debug\netstandard2.0\Tap.csproj.CoreCompileInputs.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\Tap\Tap\Tap\obj\Debug\netstandard2.0\XamlC.stamp
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\Tap\Tap\Tap\obj\Debug\netstandard2.0\Tap.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\Tap\Tap\Tap\obj\Debug\netstandard2.0\ref\Tap.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\Tap\Tap\Tap\obj\Debug\netstandard2.0\Tap.pdb
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\Tap\Tap\Tap\obj\Debug\netstandard2.0\Tap.csproj.AssemblyReference.cache
