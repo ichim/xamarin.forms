@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DragAndDrop.MainPage">
+
+    <StackLayout BackgroundColor="Black">
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Xamarin.Forms!" 
+                   HorizontalTextAlignment="Center" 
+                   TextColor="White" 
+                   FontSize="36">
+                <Label.GestureRecognizers>
+                    <DragGestureRecognizer 
+                        CanDrag="True" 
+                        DragStarting="DragGestureRecognizer_DragStarting"/>
+                </Label.GestureRecognizers>
+            </Label>
+        </Frame>
+        <StackLayout VerticalOptions="EndAndExpand" 
+                     BackgroundColor="Green" 
+                     HeightRequest="100">
+            <StackLayout.GestureRecognizers>
+                <DropGestureRecognizer AllowDrop="True" Drop="DropGestureRecognizer_Drop"/>
+            </StackLayout.GestureRecognizers>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

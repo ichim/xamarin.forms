@@ -1,0 +1,14 @@
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\DragAndDrop\DragAndDrop\DragAndDrop\bin\Debug\netstandard2.0\DragAndDrop.deps.json
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\DragAndDrop\DragAndDrop\DragAndDrop\bin\Debug\netstandard2.0\DragAndDrop.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\DragAndDrop\DragAndDrop\DragAndDrop\bin\Debug\netstandard2.0\ref\DragAndDrop.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\DragAndDrop\DragAndDrop\DragAndDrop\bin\Debug\netstandard2.0\DragAndDrop.pdb
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\netstandard2.0\DragAndDrop.csproj.AssemblyReference.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\netstandard2.0\DragAndDrop.AssemblyInfoInputs.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\netstandard2.0\DragAndDrop.AssemblyInfo.cs
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\netstandard2.0\DragAndDrop.csproj.CoreCompileInputs.cache
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\netstandard2.0\XamlC.stamp
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\netstandard2.0\DragAndDrop.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\netstandard2.0\ref\DragAndDrop.dll
+D:\~~INSTRUIRE\C#\XAMARIN\XAMARIN.Forms\youtube_code\Gestures\DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\netstandard2.0\DragAndDrop.pdb
