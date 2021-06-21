@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DragDropImage.MainPage">
+
+    <StackLayout BackgroundColor="Black">
+        <Frame VerticalOptions="StartAndExpand" BackgroundColor="#2196F3" Padding="24" HeightRequest="120">
+            <Image VerticalOptions="Center"
+                   HorizontalOptions="Center"
+                   HeightRequest="100"
+                   WidthRequest="100"
+                   Source="fifa.png">
+                <Image.GestureRecognizers>
+                    <DragGestureRecognizer
+                        CanDrag="True"
+                        DragStarting="DragGestureRecognizer_DragStarting">
+                        
+                    </DragGestureRecognizer>
+                </Image.GestureRecognizers>
+            </Image>
+        </Frame>
+        <Frame VerticalOptions="EndAndExpand"
+       BackgroundColor="Green"
+       HeightRequest="170">
+            <Frame.GestureRecognizers>
+                <DropGestureRecognizer
+                    AllowDrop="True"
+                    Drop="DropGestureRecognizer_Drop"></DropGestureRecognizer>
+            </Frame.GestureRecognizers>
+        </Frame>
+    </StackLayout>
+
+</ContentPage>
