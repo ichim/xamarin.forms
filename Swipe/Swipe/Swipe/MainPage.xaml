@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Swipe.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="Green" Padding="24" CornerRadius="0">
+            <Grid x:Name="grid">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Image x:Name="ball"
+                       Source="football.png"
+                       Grid.Column="1"
+                       Grid.Row="0">
+                    <Image.GestureRecognizers>
+                        <SwipeGestureRecognizer
+                            Direction="Left"
+                            Swiped="SwipeGestureRecognizer_Swiped">
+                        </SwipeGestureRecognizer>
+                        <SwipeGestureRecognizer
+                            Direction="Right"
+                            Swiped="SwipeGestureRecognizer_Swiped">
+                        </SwipeGestureRecognizer>
+                        <SwipeGestureRecognizer
+                            Direction="Up"
+                            Swiped="SwipeGestureRecognizer_Swiped">
+                        </SwipeGestureRecognizer>
+                        <SwipeGestureRecognizer
+                            Direction="Down"
+                            Swiped="SwipeGestureRecognizer_Swiped">
+                        </SwipeGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+                <Image x:Name="referee"
+                       Source="referee.png"
+                       Grid.Column="1"
+                       Grid.Row="1">
+                    <Image.GestureRecognizers>
+                        <SwipeGestureRecognizer
+                            Direction="Left"
+                            Swiped="SwipeGestureRecognizer_Swiped_1">
+                        </SwipeGestureRecognizer>
+                        <SwipeGestureRecognizer
+                            Direction="Right"
+                            Swiped="SwipeGestureRecognizer_Swiped_1">
+                        </SwipeGestureRecognizer>
+                        <SwipeGestureRecognizer
+                            Direction="Up"
+                            Swiped="SwipeGestureRecognizer_Swiped_1">
+                        </SwipeGestureRecognizer>
+                        <SwipeGestureRecognizer
+                            Direction="Down"
+                            Swiped="SwipeGestureRecognizer_Swiped_1">
+                        </SwipeGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+            </Grid>
+        </Frame>
+ 
+    </StackLayout>
+
+</ContentPage>
