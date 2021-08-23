@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="start_binding.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="{Binding book.title, Mode=OneWay}" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="70"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+                <ColumnDefinition Width="30"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition ></RowDefinition>
+                <RowDefinition ></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label Text="Launch Date" FontSize="18" Grid.Column="1" Grid.Row="0"/>
+            <Label Text="number of books" FontSize="18" Grid.Column="1" Grid.Row="1"/>
+            <DatePicker Date="{Binding book.launch, Mode=OneWay}" FontSize="18" Grid.Column="2" Grid.Row="0"/>
+            <Entry x:Name ="borrowing" Text="{Binding book.current_number}" FontSize="18" Grid.Column="2" Grid.Row="1"/>
+            <Button Text="↓" FontSize="18" Grid.Column="3" Grid.Row="1" Clicked="Button_Clicked"/>
+        </Grid>
+        <Button Text="Check" Clicked="Button_Clicked_1"/>
+    </StackLayout>
+
+</ContentPage>
